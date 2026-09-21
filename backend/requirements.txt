@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+tensorflow   # ถ้าต้องการระบุเวอร์ชัน ให้ใส่เวอร์ชันที่คุณเทรนด้วย (เช่น tensorflow==2.12.0)
+pillow
+numpy
+python-multipart
