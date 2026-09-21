@@ -1,7 +1,5 @@
 # AI Image Detector 🔍✨
 
-**Live Demo:** [https://web-aidetect.web.app/](https://web-aidetect.web.app/) *(Please wait up to 1 minute for the server to spin up if it hasn't been used recently.)*
-
 ## Overview
 AI Image Detector is a web application designed to classify images and determine whether they are **Real Photographs** or **AI-Generated**. It utilizes a Deep Learning model to process images, combining a robust Python FastAPI backend with a modern, glassmorphism-inspired React (Vite) frontend.
 
